@@ -12,6 +12,5 @@
 
 ### _week2_
 - **Pandas dataframe**
- 
 
 
